@@ -8,3 +8,5 @@ Classes:
 - TicBoard: a class that represents a TicTacToe Board object within the program
 
 - Player: a class that represents a Player object within the program
+
+NOTE: THE JAVA PROGRAMMING LANGUAGE IS USED TO CODE ALL PROGRAMS.
